@@ -245,10 +245,10 @@ Silabser_CopyFiles_FileListSection = 12 ; 13 = Driver package's Driver Store dir
 [Strings]
 
 Provider="Pro_Amine Inc."
-ManufacturerName="Pro_Amine"
-Disk_Description=                      "NanoKit ESP32 of T.U.M [Pro_Amine IC] Installation Disk"
-USB\VID_10C4&PID_EA60.DeviceDesc=      "NanoKit ESP32 of T.U.M [Pro_Amine IC]"
-USB\VID_10C4&PID_EA63.DeviceDesc=      "NanoKit ESP32 of T.U.M [Pro_Amine IC]"
+ManufacturerName="Pro_Amine Inc"
+Disk_Description=                      "NanoKit Integrated ESP32 of U.M.T[Pro_Amine IC] Installation Disk"
+USB\VID_10C4&PID_EA60.DeviceDesc=      "NanoKit Integrated ESP32 of U.M.T[Pro_Amine IC]"
+USB\VID_10C4&PID_EA63.DeviceDesc=      "NanoKit Integrated ESP32 of U.M.T[Pro_Amine IC]"
 USB\VID_10C4&PID_EA70&Mi_00.DeviceDesc="Silicon Labs Dual CP2105 USB to UART Bridge: Enhanced COM Port"
 USB\VID_10C4&PID_EA70&Mi_01.DeviceDesc="Silicon Labs Dual CP2105 USB to UART Bridge: Standard COM Port"
 USB\VID_10C4&PID_EA71&Mi_00.DeviceDesc="Silicon Labs Quad CP2108 USB to UART Bridge: Interface 0"
@@ -262,4 +262,4 @@ USB\VID_10C4&PID_EA7B&Mi_01.DeviceDesc="Silicon Labs Quad CP2108 USB to UART Bri
 USB\VID_10C4&PID_EA7B&Mi_02.DeviceDesc="Silicon Labs Quad CP2108 USB to UART Bridge: Interface 2"
 USB\VID_10C4&PID_EA7B&Mi_03.DeviceDesc="Silicon Labs Quad CP2108 USB to UART Bridge: Interface 3"
 
-silabser.SvcDesc="NanoKit ESP32 of T.U.M [Pro_Amine IC] Driver"
+silabser.SvcDesc="NanoKit Integrated ESP32 of U.M.T[Pro_Amine IC] Driver"
