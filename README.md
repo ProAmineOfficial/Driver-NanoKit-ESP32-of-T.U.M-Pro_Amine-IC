@@ -1,6 +1,6 @@
-# NanoKit Integrated ESP32 Windows Driver
+# NanoKit Integrated ESP32 of UMT (Pro_Amine IC) Windows Driver
 
-This repository contains the Windows driver for **NanoKit Integrated ESP32 boards** developed by **Pro_Amine Inc.**. This driver is customized from the Silicon Labs CP210x USB to UART Bridge driver to properly recognize and interface with NanoKit ESP32 boards.
+This repository contains the Windows driver for **NanoKit Integrated ESP32 board** developed by **Pro_Amine Inc.**. This driver is customized from the Silicon Labs CP210x USB to UART Bridge driver to properly recognize and interface with NanoKit Integrated ESP32 board.
 
 ## How to Install the Driver
 
@@ -30,10 +30,10 @@ If you encounter an issue related to driver signature during installation, follo
 
 
 ### 4. Verify Installation
-- Once the installation is complete, the device should appear under **Ports (COM & LPT)** in **Device Manager** as `NanoKit ESP32 of T.U.M [Pro_Amine IC]`.
+- Once the installation is complete, the device should appear under **Ports (COM & LPT)** in **Device Manager** as `NanoKit Integrated ESP32 of UMT (Pro_Amine IC)`.
 
 ## Features
-- **Automatic Recognition**: Automatically recognizes NanoKit ESP32 boards.
+- **Automatic Recognition**: Automatically recognizes NanoKit Integrated ESP32 boards.
 - **Compatibility**: Fully compatible with all standard USB to UART operations.
 - **Open Source**: Licensed under the MIT License.
 
