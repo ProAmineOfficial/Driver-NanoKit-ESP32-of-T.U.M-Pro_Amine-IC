@@ -5,7 +5,7 @@ This repository contains the Windows driver for **NanoKit Integrated ESP32 board
 ## How to Install the Driver
 
 ### 1. Download the Driver
-- You can download the latest version of the driver from the [Releases]((https://github.com/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC)/releases) section.
+- You can download the latest version of the driver from the [Releases]([(https://github.com/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC)/releases]) section.
 
 ### 2. Temporarily Disable Driver Signature Enforcement and Install the Unsigned Driver
 If you encounter an issue related to driver signature during installation, follow these steps to temporarily disable driver signature enforcement:
