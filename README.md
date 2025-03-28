@@ -113,6 +113,7 @@ If the driver doesn’t install, follow these Windows steps:
 - 🌐 Website: [https://proamine.tech](https://proamine.tech)
 - 📧 Email: `technology@proamine.tech`
 - 🎥 TikTok: [@pro_amine](https://www.tiktok.com/@pro_amine)
+- 🎥 Youtube: [@pro_amine](https://www.youtube.com/@Pro_Amine)
 
 ---
 
