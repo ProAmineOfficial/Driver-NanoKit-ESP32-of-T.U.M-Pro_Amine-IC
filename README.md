@@ -118,7 +118,6 @@ If the driver doesn’t install, follow these Windows steps:
 
 ## 📃 License
 
-This project is licensed under the **MIT License**.  
-See the [LICENSE](./LICENSE) file for full terms.
+This project is open-source and licensed under the MIT License. See the `LICENSE` file for more details.
 
 
