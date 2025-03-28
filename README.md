@@ -23,7 +23,8 @@ It ensures correct USB recognition and seamless communication with your board.
 ## 📥 Download
 
 🔽 [Click here to download the latest release](https://github.com/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC/releases)
-
+or  
+🔽 [Click here You can download the files directly to the repository via the GitHub interface.](https://github.com/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC)
 > ⚠️ If no release is listed, scroll down and manually download your platform version.
 
 ---
@@ -62,7 +63,7 @@ This repository contains the **official Windows driver** for the
 
 ### 🔽 1. Download the Driver
 
-👉 [Click here to download from here](https://github.com/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC)
+👉 [Click here to download from the Releases section](https://github.com/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC/releases)
 ---
 
 ### 🔐 2. Temporarily Disable Driver Signature Enforcement
@@ -110,8 +111,8 @@ If the driver doesn’t install, follow these Windows steps:
 ## 📞 Support
 
 - 🌐 Website: [https://proamine.tech](https://proamine.tech)
-- 📧 Email: `support@proamine.tech`
-- 🧑‍💻 TikTok: [@pro_amine](https://www.tiktok.com/@pro_amine)
+- 📧 Email: `technology@proamine.tech`
+- 🎥 TikTok: [@pro_amine](https://www.tiktok.com/@pro_amine)
 
 ---
 
