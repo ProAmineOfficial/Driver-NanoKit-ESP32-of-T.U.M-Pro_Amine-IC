@@ -1,8 +1,8 @@
-# NanoKit Integrated ESP32 of UMT (Pro_Amine IC) Windows Driver
+# NanoKit Integrated ESP32 of UMT Platform Windows Driver
 
-This repository contains the Windows driver for **NanoKit Integrated ESP32 board** developed by **Pro_Amine Inc.**. This driver is customized from the Silicon Labs CP210x USB to UART Bridge driver to properly recognize and interface with NanoKit Integrated ESP32 board.
+This repository contains the Windows driver for **NanoKit Integrated ESP32 board** developed by **Pro_Amine LLC.**. This driver is customized from the Silicon Labs CP210x USB to UART Bridge driver to properly recognize and interface with NanoKit Integrated ESP32 board.
 
-# 🚀 NanoKit Integrated ESP32 UMT - Pro_Amine IC) Driver
+# 🚀 NanoKit Integrated ESP32 of UMT Platform Driver
 
 **Author:** [Pro_Amine](https://proamine.tech)  
 **Platform:** Windows  
@@ -15,12 +15,12 @@ This repository contains the Windows driver for **NanoKit Integrated ESP32 board
 
 ## 🧩 What Is This?
 
-This is the official driver for the **NanoKit ESP32 of UMT (Pro_Amine IC)**.  
+This is the official driver for the **NanoKit ESP32 of UMT Platform**.  
 It ensures correct USB recognition and seamless communication with your board.
 
 ---
 
-## 📥 Download NanoKit Integrated ESP32 of UMT (Pro_Amine IC) Windows Driver
+## 📥 Download NanoKit Integrated ESP32 of UMT Platform Windows Driver
 
 🔽 [Click here to download the latest release](https://github.com/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC/releases)
 or  
@@ -39,7 +39,7 @@ or
 | ARM64 | `/arm64` |
 
 ---
-# 🚀 NanoKit Integrated ESP32 of UMT (Pro_Amine IC) — Windows Driver
+# 🚀 NanoKit Integrated ESP32 of UMT Platform — Windows Driver
 
 ![GitHub stars](https://img.shields.io/github/stars/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC?style=social)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ProAmineOfficial/Driver-NanoKit-ESP32-of-T.U.M-Pro_Amine-IC)
@@ -53,7 +53,7 @@ or
 ## 📦 What is This?
 
 This repository contains the **official Windows driver** for the  
-**NanoKit Integrated ESP32 board** (UMT Edition) developed by Pro_Amine Inc.
+**NanoKit Integrated ESP32 board** (UMT Platform Edition) developed by Pro_Amine LLC.
 
 🧠 It allows proper USB recognition and seamless communication with your NanoKit board.
 
@@ -95,7 +95,7 @@ If the driver doesn’t install, follow these Windows steps:
 
 - Go to **Device Manager** > **Ports (COM & LPT)**
 - You should see:  
-  `NanoKit Integrated ESP32 of UMT (Pro_Amine IC)`
+  `NanoKit Integrated ESP32 of UMT Platform`
 
 ---
 
@@ -103,7 +103,7 @@ If the driver doesn’t install, follow these Windows steps:
 
 - 🔄 **Automatic Recognition** – No extra configuration needed.
 - 💻 **USB-to-UART Compatibility** – Supports all standard communication.
-- ⚙️ **Custom for NanoKit** – Optimized for UMT IC boards.
+- ⚙️ **Custom for NanoKit** – Optimized for UMT Platform boards.
 - 📜 **MIT Licensed** – Free for personal and commercial use.
 
 ---
@@ -112,7 +112,7 @@ If the driver doesn’t install, follow these Windows steps:
 
 - 🌐 Website: [https://proamine.tech](https://proamine.tech)
 - 📧 Email: `technology@proamine.tech`
-- 🎥 TikTok: [@pro_amine](https://www.tiktok.com/@pro_amine)
+- 🎥 TikTok: [@pro_amine](https://www.tiktok.com/@pro_amine_llc)
 - 🎥 Youtube: [@pro_amine](https://www.youtube.com/@Pro_Amine)
 
 ---
